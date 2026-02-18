@@ -1,0 +1,65 @@
+// Translation dictionary used throughout the UI.
+export const translations = {
+  en: {
+    appName: 'MindBridge AI',
+    welcome: 'AI-powered mental wellness support',
+    register: 'Register',
+    login: 'Login',
+    logout: 'Logout',
+    name: 'Name',
+    email: 'Email',
+    password: 'Password',
+    startAssessment: 'Start Assessment',
+    submitAssessment: 'Submit Assessment',
+    dashboard: 'Dashboard',
+    messagePlaceholder: 'Share how you feel today...',
+    voiceInput: 'Voice Input',
+    analyze: 'Analyze',
+    feedback: 'Feedback',
+    rating: 'Rating',
+    comment: 'Comment (optional)',
+    submitFeedback: 'Submit Feedback',
+    darkMode: 'Dark Mode',
+    language: 'Language',
+    emergency: 'Emergency Alert',
+    questions: [
+      'How have you been feeling emotionally this week?',
+      'How has your sleep quality been recently?',
+      'How often do you feel stressed in daily life?',
+      'Do you feel socially supported by friends/family?',
+      'What is your current motivation level?'
+    ],
+    admin: 'Admin Analytics'
+  },
+  ta: {
+    appName: 'மைண்ட்பிரிட்ஜ் AI',
+    welcome: 'AI அடிப்படையிலான மனநல ஆதரவு',
+    register: 'பதிவு செய்',
+    login: 'உள் நுழை',
+    logout: 'வெளியேறு',
+    name: 'பெயர்',
+    email: 'மின்னஞ்சல்',
+    password: 'கடவுச்சொல்',
+    startAssessment: 'மதிப்பீட்டை தொடங்கு',
+    submitAssessment: 'மதிப்பீட்டை சமர்ப்பி',
+    dashboard: 'டாஷ்போர்டு',
+    messagePlaceholder: 'இன்று எப்படி உணருகிறீர்கள் பகிரவும்...',
+    voiceInput: 'குரல் உள்ளீடு',
+    analyze: 'பகுப்பாய்வு செய்',
+    feedback: 'பின்புல கருத்து',
+    rating: 'மதிப்பீடு',
+    comment: 'கருத்து (விருப்பம்)',
+    submitFeedback: 'சமர்ப்பி',
+    darkMode: 'இருண்ட முறை',
+    language: 'மொழி',
+    emergency: 'அவசர எச்சரிக்கை',
+    questions: [
+      'இந்த வாரம் உங்களின் உணர்ச்சி நிலை எப்படி இருந்தது?',
+      'சமீபத்தில் உங்கள் தூக்க தரம் எப்படி இருந்தது?',
+      'நாளாந்திர வாழ்க்கையில் எவ்வளவு அடிக்கடி மன அழுத்தம் உணர்கிறீர்கள்?',
+      'நண்பர்கள்/குடும்பத்தினரிடமிருந்து ஆதரவு கிடைக்கிறதா?',
+      'தற்போது உங்கள் ஊக்க நிலை எப்படி உள்ளது?'
+    ],
+    admin: 'நிர்வாக பகுப்பாய்வு'
+  }
+};
